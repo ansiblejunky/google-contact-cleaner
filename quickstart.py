@@ -16,6 +16,9 @@ def main():
 
     # STEP 1 - Authenticate
     # ---------------------------------------------
+    # Download credentials.json from:
+    # https://console.cloud.google.com/apis/credentials?project=contactproject-232916
+    # Then run this script to generate the token.pickle file.
     
     creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
